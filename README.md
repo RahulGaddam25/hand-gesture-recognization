@@ -1,2 +1,3 @@
-# hand-gesture-recognization
-hand gesture recognization
+# Hand Gesture Recognition
+
+This repository contains a hand gesture recognition project.
